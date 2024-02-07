@@ -25,3 +25,10 @@ My main working fields are
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+### 🧰 Languages and Tools
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<img align="left" alt="Pycharm" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" width="75px" />
