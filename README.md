@@ -44,7 +44,7 @@ My main working fields are
 
 <hr>
 
-Credit [Github](src=https://github.com/AlejandroIgualP/AlejandroIgualP).
+Credit  [AlejandroIgualP](https://github.com/AlejandroIgualP)
 
 Last Edited on: 07/02/2024
 
