@@ -1,8 +1,4 @@
-<h1 align="center"> Hola, mi nombre es Alejandro Igual 👋</h1>
-
-
-
-Hello, I'm `Alejandro Igual`. I’m `19 years old`. Currently live in  `Europe, Spain`,
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Hello, I'm `Alejandro Igual`. I’m `19 years old`. Currently live in  `Europe, Spain`**
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -43,4 +39,8 @@ My main working fields are
 ![Alejandro Igual github stats](https://github-readme-stats.vercel.app/api?username=AlejandroIgualP&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroIgualP&theme=tokyonight_duo" alt="mystreak"/>
 
+### ➕ Visitor count
+<img src="https://profile-counter.glitch.me/AlejandroIgualP/count.svg" />
+
+CREDITS 
 
