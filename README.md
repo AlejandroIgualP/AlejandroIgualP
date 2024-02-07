@@ -42,5 +42,9 @@ My main working fields are
 ### ➕ Visitor count
 <img src="https://profile-counter.glitch.me/AlejandroIgualP/count.svg" />
 
-CREDITS 
+<hr>
+
+Credit [Github](src=https://github.com/AlejandroIgualP/AlejandroIgualP).
+
+Last Edited on: 07/02/2024
 
