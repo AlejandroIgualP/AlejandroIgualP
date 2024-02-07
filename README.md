@@ -32,6 +32,12 @@ My main working fields are
 </a>
 <img align="left" alt="Pycharm" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" width="75px" />
+<img src="https://github.com/AlejandroIgualP/AlejandroIgualP/assets/145803481/f13dd08e-aeff-4bf9-9432-e354e49b335a" width="60px" />
+<img src="https://github.com/AlejandroIgualP/AlejandroIgualP/assets/145803481/3219eb85-77dc-43cc-9e3d-16918522fcff" width="50px" />
+<img src="https://github.com/AlejandroIgualP/AlejandroIgualP/assets/145803481/15c7708e-901f-447f-803f-99087c240cef" width="50px" />
+<img src="https://github.com/AlejandroIgualP/AlejandroIgualP/assets/145803481/fcf0adc2-fe0f-490b-9608-bc7a4a747b0d" width="50px" />
+<img src="https://github.com/AlejandroIgualP/AlejandroIgualP/assets/145803481/f13dd08e-aeff-4bf9-9432-e354e49b335a" width="50px" />
+<img src="https://github.com/AlejandroIgualP/AlejandroIgualP/assets/145803481/82903d5b-b759-46b1-81cd-3d02bc940b5e" width="30px" />
 
 ### 💹 GITHUB Analytics
 ![Alejandro Igual github stats](https://github-readme-stats.vercel.app/api?username=AlejandroIgualP&show_icons=true&theme=github_dark)
