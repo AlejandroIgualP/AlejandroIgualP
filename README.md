@@ -32,3 +32,7 @@ My main working fields are
 </a>
 <img align="left" alt="Pycharm" width="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" width="75px" />
+
+### 💹 GITHUB Analytics
+![Alejandro Igual github stats](https://github-readme-stats.vercel.app/api?username=AlejandroIgualP&show_icons=true&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroIgualP&theme=tokyonight_duo" alt="mystreak"/>
