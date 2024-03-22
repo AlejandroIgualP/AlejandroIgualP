@@ -40,7 +40,7 @@ My main working fields are
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroIgualP&theme=tokyonight_duo" alt="mystreak"/>
 
 ### ➕ Visitor count
-<img src="https://profile-counter.glitch.me/AlejandroIgualP/count.svg" />
+![Visitor Count](https://profile-counter.glitch.me/{AlejandroIgualP}/count.svg)
 
 <hr>
 
